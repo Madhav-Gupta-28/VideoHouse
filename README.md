@@ -1,1 +1,1 @@
-You can View the website live -->  https://vercel.com/madhav-gupta-28/chakraui-app/4HDR637FCssxHwHnP84YkTvhs4cG
+You can View the website live -->  https://chakraui-app-six.vercel.app/
